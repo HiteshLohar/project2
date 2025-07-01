@@ -1,3 +1,3 @@
 # New Project 
 this project was created from local system.
-new changes updates.git
+new changes updates.
